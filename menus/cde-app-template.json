@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Open cde-app-template",
+        "command": "cde-app-template:open"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "cde-app-template",
+          "submenu": [
+            {
+              "label": "Open",
+              "command": "cde-app-template:open"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
