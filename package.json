@@ -1,7 +1,7 @@
 {
   "name": "cde-app-template",
   "main": "./lib/cde-app-template",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A react related code application download Plug-in for beginners in react",
   "keywords": [],
   "activationCommands": {
