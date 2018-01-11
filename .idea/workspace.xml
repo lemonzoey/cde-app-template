@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e818d1ab-961f-4308-91fc-55a142747045" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/cde-app-template-view.js" afterPath="$PROJECT_DIR$/lib/cde-app-template-view.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/cde-app-template.js" afterPath="$PROJECT_DIR$/lib/cde-app-template.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
